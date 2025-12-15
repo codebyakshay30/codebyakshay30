@@ -1,16 +1,30 @@
-## Hi there 👋
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0066ff&height=200&text=Akshay%20Sharma%20(codebyakshay30)&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
-<!--
-**codebyakshay30/codebyakshay30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 🧑‍💻 Python • OOP • Beginner Developer  
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+Python+Daily;Building+Cool+Beginner+Projects;Follow+my+Coding+Journey+🚀" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌟 Skills  
+- 🐍 Python  
+- ✈️ Scratch Projects  
+- 💻 GitHub & VS Code  
+- 📚 Learning DSA + OOP  
+
+---
+
+## 📊 GitHub Activity  
+<div align="center">
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=codebyakshay30&theme=highcontrast)
+
+</div>
+
+---
+
+## 🌊 Bottom Wave  
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=footer)
